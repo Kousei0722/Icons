@@ -1,0 +1,38 @@
+body{
+    background-image: url("https://cdn.wisata.app/diary/6c4979dd-8ec4-4a42-8a7f-d7e452d942e8.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    font-size: 60px;
+    color: black;
+    padding-top: 235px;
+
+}
+.icons2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    font-size: 60px;
+    color: black;
+    margin-top: 25px;
+
+}
+
+.icons3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    font-size: 60px;
+    color: black;
+    margin-top: 25px;
+
+}
