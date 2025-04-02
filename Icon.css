@@ -38,4 +38,15 @@ body{
 
 .icons3 :hover {
     transform: scale(1.5); 
-    color: #007bff;
+    color: red;
+}
+
+.icons2 :hover {
+    transform: scale(1.5); 
+    color: red;
+}
+
+.icons :hover {
+    transform: scale(1.5); 
+    color: red;
+}
