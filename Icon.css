@@ -34,5 +34,8 @@ body{
     font-size: 60px;
     color: black;
     margin-top: 25px;
-
 }
+
+.icons3 :hover {
+    transform: scale(1.5); 
+    color: #007bff;
